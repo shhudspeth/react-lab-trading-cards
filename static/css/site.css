@@ -8,6 +8,8 @@ div.card {
 }
 
 body {
-  font-family: "Trebuchet MS", Helvetica, sans-serif
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  margin: auto;
+  display: inline-block;
 }
 

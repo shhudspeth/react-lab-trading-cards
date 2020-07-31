@@ -2,8 +2,11 @@
 
 function Homepage() {
   return (
+    
     <div>
-      This component needs to be implemented.
+      <h4> Welcome to our Trading Cards Website</h4>
+      <a href="/cards"> Check out my Cards! </a> <br></br>
+      <img src="/static/img/balloonicorn.jpg" href="/cards"></img>
     </div>
   );
 }
